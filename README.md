@@ -1,1 +1,1 @@
-# Docker-setup-for-Kafka-Kraft-mode-
+# Docker setup for Kafka Kraft mode (no zookeeper)
