@@ -1,4 +1,4 @@
-# Setup and use Docker for Apache Kafka (Kraft mode, no zookeeper)
+# Setup and use Docker for Apache Kafka (Kraft mode, no need zookeeper)
 
 OS: Ubuntu 22.04
 
