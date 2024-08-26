@@ -41,6 +41,8 @@ docker compose up
 
 ## Step to use basic commands in Kafka with docker <a name="basic-commands"></a>
 
+Or just use the open-source [UI for Kafka](https://github.com/provectus/kafka-ui)
+
 **Enter the shell of Kafka container:**
 
 This part may differ on other OS.
@@ -70,6 +72,7 @@ bin/kafka-topics.sh --create --topic quickstart-events --bootstrap-server localh
 ```
  bin/kafka-topics.sh --describe --topic quickstart-events --bootstrap-server localhost:9092
 ```
+
 
 ## Log files <a name="log-files"></a>
 
