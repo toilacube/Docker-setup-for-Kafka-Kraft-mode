@@ -3,8 +3,8 @@
 OS: Ubuntu 22.04
 
 - [Docker compose file](#docker-compose-file)
-- [Basic commands](basic-commands)
-- [Log files](log-files)
+- [Basic commands](#basic-commands)
+- [Log files](#log-files)
 
 ## Docker compose file <a name="docker-compose-file"></a>
 
